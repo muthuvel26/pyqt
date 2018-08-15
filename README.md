@@ -1,0 +1,2 @@
+# pyqt
+Andriod_pyqt
